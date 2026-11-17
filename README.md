@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SolaX Cloud is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+SolaX Cloud provides a cloud‑based platform for monitoring, managing, and optimizing solar power installations. Through its web portal and mobile app, users can view real‑time performance data, historical analytics, and receive alerts for system issues. The service supports a range of SolaX inverters and storage solutions, offering APIs for integration with third‑party applications and enterprise energy management systems. Founded to empower solar owners with actionable insights, SolaX Cloud aims to enhance energy efficiency and reliability across residential and commercial deployments.
 
-**Areas:** Company
+**Areas:** Company · Solar · Energy · Monitoring · IoT · Cloud
 
 ## SolaX Cloud on APIs.io
 
@@ -91,18 +91,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 2.3** — minimal · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 5.1** — minimal · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
-| Discoverability | 26.8 |
+| Discoverability | 44.6 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 9.5 |
 | Access clarity | 0.0 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 6.0** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -117,7 +117,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -129,7 +129,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 0.0** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 4.9** — Energy & Utilities
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/solax-power/](https://apis.io/providers/solax-power/).
 
